@@ -5,7 +5,6 @@
                 "type": "Contact",
                 "referenceId": "ContactRef1"
             },
-            "Name": "Brad Holmes",
             "Phone": "617-555-0143",
             "Email": "bholmes@goodmail.com"
         },
@@ -14,7 +13,6 @@
                 "type": "Contact",
                 "referenceId": "ContactRef2"
             },
-            "Name": "Leslie Martin",
             "Phone": "617-555-0112",
             "Email": "leslie@pentagon.com"
         },
@@ -23,7 +21,6 @@
                 "type": "Contact",
                 "referenceId": "ContactRef3"
             },
-            "Name": "July Walker",
             "Phone": "617-555-0170",
             "Email": "julywalker@brain.com"
         },
@@ -32,7 +29,6 @@
                 "type": "Contact",
                 "referenceId": "ContactRef4"
             },
-            "Name": "Anna Jones",
             "Phone": "617-555-0181",
             "Email": "annaj@mymail.com"
         },
@@ -41,7 +37,6 @@
                 "type": "Contact",
                 "referenceId": "ContactRef5"
             },
-            "Name": "John Connor",
             "Phone": "617-555-0133",
             "Email": "jconnor@goodmail.com"
         }
